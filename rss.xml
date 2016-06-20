@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Indranil Datta]]></title>
         <description><![CDATA[Indranil Datta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/indranildatta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 22:37:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 22:59:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/indranildatta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact Me</p>]]></description>
+            <link>https://thegrid.ai/indranildatta/contact-me/index.html</link>
+            <guid isPermaLink="false">37f8b839-e0a4-4c54-9a70-8003b8515b04</guid>
+            <pubDate>Mon, 20 Jun 2016 22:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World! That seems a very apt first couple of words when you're trying out a new platform. I have always been interested in a website to put all of my updates and information together, but neither do I like the journal-like features of a blog, nor am I interested enough to maintain a well-designed website. The Grid seemed like the perfect option for me so I thought of giving it a try. Let's see how this goes.</p>]]></description>
-            <link>undefinedhello-world-that-seems-a-very-apt-first-couple-of-words-whe/index.html</link>
+            <link>https://thegrid.ai/indranildatta/hello-world-that-seems-a-very-apt-first-couple-of-words-whe/index.html</link>
             <guid isPermaLink="false">00543c8a-c916-429d-b66d-121eff59ffd0</guid>
             <pubDate>Mon, 20 Jun 2016 22:37:13 GMT</pubDate>
         </item>
