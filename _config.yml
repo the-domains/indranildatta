@@ -1,0 +1,28 @@
+name: Indranil Datta
+favicon: null
+layout_spectrum: 0.14906686451286077
+typography_spectrum: 0.7366435998119414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5394231306854635
+  lightness: 0.8272025140468031
+  saturation: 0.46006830083206296
+  rhythmicContrast: 0.24908796697854996
+purpose: []
